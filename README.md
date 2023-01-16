@@ -1,8 +1,17 @@
 # About me
+My name is Beni, I'm a Junior Frontend Developer. I love developing modern and responsive web applications and websites. I'm always open to learn new skills and to broaden my knowledge with new technologies. I'd love to help create beautiful web applications and websites that make people's everyday lives easier.
 
-Hello there! My name is Beni, I am a Junior Frontend Developer. I love developing modern and responsive frontend web applications and websites. I am always open to learn new skills and broaden my knowledge. I would love to help create applications that make our everyday lives better. Do not hesitate to contact me, I am open to new opportunities!
+## My knowledge so far:
+- HTML5, CSS3 / SASS
+- JavaScript, TypeScript
+- React
+- Git, GitHub
 
-**My tech stack is:** HTML5, CSS3, JavaScript (ES6+), but I am also familiar with React, TypeScript, Node.js, and Express.js.
+## I am also familiar with:
+- Node.js, Express.js
+- MaterialUI
+
+There's much more to learn for me, but I'm looking forward to all of it. If I caught your attention, please contact me.
 
 **My LinkedIn profile:**
 https://www.linkedin.com/in/vucben99/
