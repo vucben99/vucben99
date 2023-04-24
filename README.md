@@ -1,5 +1,3 @@
-[My LinkedIn profile](https://www.linkedin.com/in/vucben99/)
-
 # Pet projects
 
 - [AvocaDo (simple ToDo app made in React)](https://chipper-semolina-5d7aae.netlify.app/)
@@ -9,3 +7,6 @@
 
 # Portfolio site
 WIP!
+
+# LinkedIn
+[My LinkedIn profile](https://www.linkedin.com/in/vucben99/)
