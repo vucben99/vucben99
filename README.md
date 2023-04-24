@@ -6,3 +6,6 @@
 - BudgetBonsai (expense tracker app with React frontend and Express-TS backend) (WIP!)
 - Weather app (simple weather app made in React, uses Redux to manage states ) (Done, haven't deployed yet)
 - Calculator (simple calculator app with React frontend and Express-TS backend) (Done, haven't deployed yet)
+
+# Portfolio site
+WIP!
